@@ -1,0 +1,23 @@
+.Container-all {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-image: url(./components/bor.jpg);
+  background-size: cover;
+}
+
+.container-GR {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-content: space-around;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.container-categoria {
+  display: flex;
+}
